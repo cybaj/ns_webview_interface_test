@@ -1,0 +1,24 @@
+{
+  "nativescript": {
+    "id": "org.nativescript.nswebviewinterfacedemo",
+    "tns-android": {
+      "version": "6.0.0"
+    },
+    "tns-ios": {
+      "version": "6.0.1"
+    }
+  },
+  "dependencies": {
+    "nativescript-theme-core": "^1.0.6",
+    "nativescript-webview-interface": "^1.4.3",
+    "tns-core-modules": "6.0.1"
+  },
+  "devDependencies": {
+    "babel-traverse": "6.26.0",
+    "babel-types": "6.26.0",
+    "babylon": "6.18.0",
+    "lazy": "1.0.11",
+    "typescript": "3.4.5",
+    "nativescript-dev-webpack": "1.0.1"
+  }
+}
